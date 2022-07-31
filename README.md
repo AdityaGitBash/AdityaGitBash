@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaGitBash
-- 👀 I’m interested in ...
+- 👀 I’m interested in Android and ios developing
 - 🌱 I’m currently learning java,kotlin.
 - 💞️ I’m looking to collaborate on Android Developing
 - 📫 How to reach me through Mail or Phone Number
